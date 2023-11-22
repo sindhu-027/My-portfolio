@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Full stack Netflix App",
+    "imageSrc": "projects/netflix.png",
+    "description": "An immersive streaming experience with this Full Stack Netflix Clone built using the power of Next.js, React, NextAuth, Prisma, Supabase, Tailwind CSS.",
+    "skills": ["React", "Nextjs","prisma","tailwind css","supabase"],
+    "demo": "https://netflix-clone-rouge-phi.vercel.app/",
+    "source": "https://github.com/sindhu-027/Netflix-clone-App"
+  },
+  {
+    "title": "Amazon clone",
+    "imageSrc": "projects/amazon.png",
+    "description": "This is a project made to learn the latest languages by building an frontend , in this we can add items to our cart and alos we can remove items from our cart.",
+    "skills": ["html", "css", "js"],
+    "demo": "https://amazon-clone-gamma-black.vercel.app/",
+    "source": "https://github.com/sindhu-027/Amazon-clone"
+  },
+  {
+    "title": "Rock papers scissors game",
+    "imageSrc": "projects/rps.png",
+    "description": "This is a project made to learn the latest languages by building front end in this we can see how the game works in the demo and it plays with computer.",
+    "skills": ["html", "css", "js"],
+    "demo": "https://rps-game-tan.vercel.app/",
+    "source": "https://github.com/sindhu-027/Rock-paper-Scissors-game"
+  },
+  {
+    "title": "Todolist",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a project made to learn the latest languages by building front end in this we can add our todos and also delete in this todolist.",
+    "skills": ["html", "css", "js"],
+    "demo": "https://todolist-eta-jade.vercel.app/",
+    "source": "https://github.com/sindhu-027/Todolist"
+  },
+  {
+    "title": "Agency Website",
+    "imageSrc": "projects/agency.png",
+    "description": "This is a project completetly made or built using tailwind css and a single line of normal css is not used in this website.",
+    "skills": ["html", "css", "tailwind css"],
+    "demo": "https://agency-website-lime.vercel.app/",
+    "source": "https://github.com/sindhu-027/Agency-Website"
+  }
+]
